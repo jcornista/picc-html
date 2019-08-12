@@ -20,14 +20,16 @@ header {
 	}
 	ul { 
 		list-style-type: none;
-	 }
+	 }
+
 
 	a {
 		font-family: Times New Roman;
 		color: #030303;
 	}
 
-</style>
+</style>
+
 <head>
 <title>Photo Gallery</title>
 </head>
